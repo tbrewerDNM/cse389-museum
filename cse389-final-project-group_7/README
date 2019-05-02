@@ -1,0 +1,25 @@
+CSE 389 (3D Graphics with OpenGL) Group 7
+
+Members:
+	Terence Brewer
+	Brandon Edwards
+	Christopher Fontes-Barry
+
+GitHub link: https://git.cs.nmt.edu/tbrewer/cse389-proj.git
+
+Video YT link: https://youtu.be/UqqX1nR617Y
+
+INSTALLATION INSTRUCTIONS
+
+(1) Make sure all needed libraries are installed
+	- GL
+	- SOIL
+	- GLEW
+	- GLUT
+	- GLU
+	- GLFW3
+
+(2) In makefile directory: make
+(3) In makefile directory: make run
+
+The program should run. Move with arrow keys and move camera with WASD
